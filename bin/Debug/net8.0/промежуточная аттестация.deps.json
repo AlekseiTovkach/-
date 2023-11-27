@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "промежуточная аттестация/1.0.0": {
+        "runtime": {
+          "промежуточная аттестация.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "промежуточная аттестация/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
