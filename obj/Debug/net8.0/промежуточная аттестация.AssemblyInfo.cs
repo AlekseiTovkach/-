@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("промежуточная аттестация")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ca3704e542f4a00f711d6dd11301e828a5b4484")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c677583213070ebcf1ddce15f9772ecbb3af16e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("промежуточная аттестация")]
 [assembly: System.Reflection.AssemblyTitleAttribute("промежуточная аттестация")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
